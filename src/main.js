@@ -26,7 +26,6 @@ module.exports.loop = function () {
                 creep.moveTo(source);
             }
         }
-    }
-    
+    } 
 };
 
